@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Jolanta Filipiak
+
 # gra "Kolko-krzyzyk"
 
 
